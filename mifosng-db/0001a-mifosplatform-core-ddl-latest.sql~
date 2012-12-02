@@ -4,8 +4,6 @@ SET foreign_key_checks = 0;
 -- drop accounting subsystem
 DROP TABLE IF EXISTS `m_acc_coa`;
 
---test
-
 -- drop portfolio subsystem
 DROP TABLE IF EXISTS `m_appuser`;
 DROP TABLE IF EXISTS `m_appuser_role`;
